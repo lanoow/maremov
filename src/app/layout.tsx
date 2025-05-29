@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "TechCorp - Модерни уеб решения",
+  title: "Maremov - Модерни уеб решения",
   description: "Авангардни корпоративни уеб решения с използване на модерни технологии",
 };
 

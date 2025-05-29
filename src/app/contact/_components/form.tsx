@@ -142,8 +142,8 @@ const FormClient = () => {
 										</svg>
 									</div>
 									<h3 className="text-xl font-medium">Имейл</h3>
-									<p className="text-muted-foreground">info@techcorp.com</p>
-									<p className="text-muted-foreground">support@techcorp.com</p>
+									<p className="text-muted-foreground">info@Maremov.com</p>
+									<p className="text-muted-foreground">support@Maremov.com</p>
 								</CardContent>
 							</Card>
 

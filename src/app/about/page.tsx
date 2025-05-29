@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 
 export const metadata = {
-  title: "За нас | TechCorp",
+  title: "За нас | Maremov",
   description: "Научете повече за нашата компания и мисията ни да изграждаме иновативни уеб решения",
 };
 
@@ -15,7 +15,7 @@ export default function AboutPage() {
       <section className="py-16 md:py-24 bg-muted/30">
         <div className="container mx-auto">
           <div className="max-w-3xl mx-auto space-y-4 text-center">
-            <h1 className="text-4xl font-bold tracking-tighter md:text-5xl">За TechCorp</h1>
+            <h1 className="text-4xl font-bold tracking-tighter md:text-5xl">За Maremov</h1>
             <p className="text-xl text-muted-foreground">
               Изграждаме иновативни уеб решения с авангардни технологии
             </p>
@@ -28,7 +28,7 @@ export default function AboutPage() {
             <div className="space-y-6">
               <h2 className="text-3xl font-bold tracking-tight">Нашата история</h2>
               <p className="text-muted-foreground">
-                TechCorp бе основана през 2020 г. с мисията да помогне на бизнесите да използват модерни уеб технологии 
+                Maremov бе основана през 2020 г. с мисията да помогне на бизнесите да използват модерни уеб технологии 
                 за създаване на изключителни дигитални преживявания. Това, което започна като малък екип от страстни разработчици, 
                 се разрасна до пълноценна агенция за уеб разработка.
               </p>

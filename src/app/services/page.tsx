@@ -6,7 +6,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Badge } from "@/components/ui/badge";
 
 export const metadata = {
-  title: "Услуги | TechCorp",
+  title: "Услуги | Maremov",
   description: "Разгледайте нашите цялостни уеб разработка и дигитални услуги",
 };
 

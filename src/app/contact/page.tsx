@@ -4,7 +4,7 @@ import { Metadata } from "next";
 import FormClient from "./_components/form";
 
 export const metadata: Metadata = {
-	title: "Свържете се с нас | TechCorp",
+	title: "Свържете се с нас | Maremov",
 	description: "Свържете се с нашия екип, за да обсъдите вашите нужди за уеб разработка",
 }
 

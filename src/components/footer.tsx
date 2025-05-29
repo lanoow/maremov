@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="py-12 border-t bg-muted/40">
       <div className="container grid grid-cols-2 gap-8 mx-auto md:grid-cols-4">        <div>
-          <h3 className="mb-3 text-lg font-bold">TechCorp</h3>
+          <h3 className="mb-3 text-lg font-bold">Maremov</h3>
           <p className="text-muted-foreground">
             Изграждаме бъдещето с модерни уеб технологии.
           </p>
@@ -76,7 +76,7 @@ const Footer = () => {
       
       <div className="container pt-8 mx-auto mt-8 border-t">
         <div className="flex flex-col items-center justify-between gap-4 md:flex-row">          <p className="text-sm text-muted-foreground">
-            © 2025 TechCorp. Всички права запазени.
+            © 2025 Maremov. Всички права запазени.
           </p>
           <div className="flex items-center gap-4 text-sm text-muted-foreground">
             <Link href="/privacy" className="transition-colors hover:text-foreground">
